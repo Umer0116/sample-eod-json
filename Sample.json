@@ -1,0 +1,729 @@
+{
+    "_id": "CZH.F",
+    "General": {
+      "Code": "CZH",
+      "Exchange": "F",
+      "Name": "Choice Hotels International Inc",
+      "CurrencyCode": "EUR",
+      "CountryName": "Germany",
+      "PrimaryTicker": "CHH.US",
+      "Sector": "Consumer Cyclical",
+      "Industry": "Lodging",
+      "UpdatedAt": "2023-08-23"
+    },
+    "Highlights": {
+      "MarketCapitalization": {
+        "$numberLong": "5949419520"
+      },
+      "QuarterlyRevenueGrowthYOY": 0.193,
+      "PERatio": 23.2465,
+      "PEGRatio": 1.1045,
+      "BookValue": 1.089,
+      "DividendShare": 1.05,
+      "DividendYield": 0.0087,
+      "EarningsShare": 4.99,
+      "EPSEstimateCurrentYear": 3.9,
+      "EPSEstimateNextYear": 4.7,
+      "EPSEstimateNextQuarter": 0,
+      "EPSEstimateCurrentQuarter": 1.32,
+      "ProfitMargin": 0.3872,
+      "OperatingMarginTTM": 0.6139,
+      "ReturnOnAssetsTTM": 0.1388,
+      "ReturnOnEquityTTM": 1.2563,
+      "RevenueTTM": 764809024,
+      "RevenuePerShareTTM": 14.609,
+      "GrossProfitTTM": 700052000,
+      "DilutedEpsTTM": 4.99
+    },
+    "Valuation": {
+      "TrailingPE": 23.2465,
+      "ForwardPE": 18.6916,
+      "PriceSalesTTM": 4.3632,
+      "PriceBookMRQ": 21.7197,
+      "EnterpriseValue": {
+        "$numberLong": "7323792384"
+      },
+      "EnterpriseValueRevenue": 5.3404,
+      "EnterpriseValueEbitda": 12.8159
+    },
+    "SharesStats": {
+      "SharesOutstanding": 50377600,
+      "SharesFloat": 38664148,
+      "PercentInsiders": 38.271,
+      "PercentInstitutions": 62.169
+    },
+    "InsiderTransactions": {},
+    "Financials": {
+      "Balance_Sheet": {
+        "currency_symbol": "USD",
+        "quarterly": {
+          "2023-06-30": {
+            "netDebt": "1352542000.00",
+            "netWorkingCapital": "-58552000.00",
+            "totalStockholderEquity": "54691000.00",
+            "shortLongTermDebtTotal": null,
+            "cashAndShortTermInvestments": null,
+            "netTangibleAssets": null,
+            "commonStockSharesOutstanding": "50565881.00"
+          },
+          "2023-03-31": {
+            "netDebt": "1347551000.00",
+            "netWorkingCapital": "-28486000.00",
+            "totalStockholderEquity": "47008000.00",
+            "shortLongTermDebtTotal": null,
+            "cashAndShortTermInvestments": null,
+            "netTangibleAssets": null,
+            "commonStockSharesOutstanding": "51174432.00"
+          },
+          "2022-12-31": {
+            "netDebt": "1161957000.00",
+            "netWorkingCapital": "-87976000.00",
+            "totalStockholderEquity": "154660000.00",
+            "shortLongTermDebtTotal": null,
+            "cashAndShortTermInvestments": null,
+            "netTangibleAssets": null,
+            "commonStockSharesOutstanding": "52200903.00"
+          },
+          "2022-09-30": {
+            "netDebt": "1105577000.00",
+            "netWorkingCapital": "32766000.00",
+            "totalStockholderEquity": "284511000.00",
+            "shortLongTermDebtTotal": null,
+            "cashAndShortTermInvestments": null,
+            "netTangibleAssets": "-666809000.00",
+            "commonStockSharesOutstanding": "54000000.00"
+          },
+          "2022-06-30": {
+            "netDebt": "454115000.00",
+            "netWorkingCapital": "401258000.00",
+            "totalStockholderEquity": "416725000.00",
+            "shortLongTermDebtTotal": null,
+            "cashAndShortTermInvestments": null,
+            "netTangibleAssets": "-62393000.00",
+            "commonStockSharesOutstanding": "55780322.00"
+          },
+          "2022-03-31": {
+            "netDebt": "533703000.00",
+            "netWorkingCapital": "224505000.00",
+            "totalStockholderEquity": "314645000.00",
+            "shortLongTermDebtTotal": null,
+            "cashAndShortTermInvestments": null,
+            "netTangibleAssets": "-155630000.00",
+            "commonStockSharesOutstanding": "55770322.00"
+          },
+          "2021-12-31": {
+            "netDebt": "548869000.00",
+            "netWorkingCapital": "191366000.00",
+            "totalStockholderEquity": "265882000.00",
+            "shortLongTermDebtTotal": null,
+            "cashAndShortTermInvestments": null,
+            "netTangibleAssets": "-205703000.00",
+            "commonStockSharesOutstanding": "55629330.00"
+          },
+          "2021-09-30": {
+            "netDebt": "644921000.00",
+            "netWorkingCapital": "120375000.00",
+            "totalStockholderEquity": "212146000.00",
+            "shortLongTermDebtTotal": null,
+            "cashAndShortTermInvestments": null,
+            "netTangibleAssets": "-253058000.00",
+            "commonStockSharesOutstanding": "55630704.00"
+          },
+          "2021-06-30": {
+            "netDebt": "751627000.00",
+            "netWorkingCapital": "291565000.00",
+            "totalStockholderEquity": "104933000.00",
+            "shortLongTermDebtTotal": null,
+            "cashAndShortTermInvestments": null,
+            "netTangibleAssets": "-361822000.00",
+            "commonStockSharesOutstanding": "55646993.00"
+          },
+          "2021-03-31": {
+            "netDebt": "836208000.00",
+            "netWorkingCapital": "201344000.00",
+            "totalStockholderEquity": "19235000.00",
+            "shortLongTermDebtTotal": null,
+            "cashAndShortTermInvestments": null,
+            "netTangibleAssets": "-446829000.00",
+            "commonStockSharesOutstanding": "55537836.00"
+          },
+          "2020-12-31": {
+            "netDebt": "823959000.00",
+            "netWorkingCapital": "177067000.00",
+            "totalStockholderEquity": "-5752000.00",
+            "shortLongTermDebtTotal": null,
+            "cashAndShortTermInvestments": null,
+            "netTangibleAssets": "-468673000.00",
+            "commonStockSharesOutstanding": "55535554.00"
+          },
+          "2020-09-30": {
+            "netDebt": "873319000.00",
+            "netWorkingCapital": "163150000.00",
+            "totalStockholderEquity": "-21404000.00",
+            "shortLongTermDebtTotal": null,
+            "cashAndShortTermInvestments": null,
+            "netTangibleAssets": "-471513000.00",
+            "commonStockSharesOutstanding": "55458248.00"
+          },
+          "2020-06-30": {
+            "netDebt": "925154000.00",
+            "netWorkingCapital": "305742000.00",
+            "totalStockholderEquity": "-42752000.00",
+            "shortLongTermDebtTotal": null,
+            "cashAndShortTermInvestments": null,
+            "netTangibleAssets": "-493146000.00",
+            "commonStockSharesOutstanding": "55363895.00"
+          },
+          "2020-03-31": {
+            "netDebt": null,
+            "netWorkingCapital": "275859000.00",
+            "totalStockholderEquity": "-43854000.00",
+            "shortLongTermDebtTotal": null,
+            "cashAndShortTermInvestments": null,
+            "netTangibleAssets": "-495080000.00",
+            "commonStockSharesOutstanding": "55340423.00"
+          },
+          "2019-12-31": {
+            "netDebt": null,
+            "netWorkingCapital": null,
+            "totalStockholderEquity": "-23511000.00",
+            "shortLongTermDebtTotal": null,
+            "cashAndShortTermInvestments": null,
+            "netTangibleAssets": "-473128000.00",
+            "commonStockSharesOutstanding": "55702628.00"
+          },
+          "2019-09-30": {
+            "netDebt": null,
+            "netWorkingCapital": null,
+            "totalStockholderEquity": "-56735000.00",
+            "shortLongTermDebtTotal": null,
+            "cashAndShortTermInvestments": null,
+            "netTangibleAssets": "-495416000.00",
+            "commonStockSharesOutstanding": null
+          },
+          "2019-06-30": {
+            "netDebt": null,
+            "netWorkingCapital": null,
+            "totalStockholderEquity": "-122660000.00",
+            "shortLongTermDebtTotal": null,
+            "cashAndShortTermInvestments": null,
+            "netTangibleAssets": "-554065000.00",
+            "commonStockSharesOutstanding": null
+          },
+          "2019-03-31": {
+            "netDebt": null,
+            "netWorkingCapital": null,
+            "totalStockholderEquity": "-185477000.00",
+            "shortLongTermDebtTotal": null,
+            "cashAndShortTermInvestments": null,
+            "netTangibleAssets": "-615790000.00",
+            "commonStockSharesOutstanding": null
+          },
+          "2018-12-31": {
+            "netDebt": null,
+            "netWorkingCapital": null,
+            "totalStockholderEquity": "-183772000.00",
+            "shortLongTermDebtTotal": null,
+            "cashAndShortTermInvestments": null,
+            "netTangibleAssets": "-623956000.00",
+            "commonStockSharesOutstanding": null
+          },
+          "2018-09-30": {
+            "netDebt": null,
+            "netWorkingCapital": null,
+            "totalStockholderEquity": "-168079000.00",
+            "shortLongTermDebtTotal": null,
+            "cashAndShortTermInvestments": null,
+            "netTangibleAssets": "-605643000.00",
+            "commonStockSharesOutstanding": null
+          }
+        },
+        "yearly": {
+          "2022-12-31": {
+            "netDebt": "1161957000.00",
+            "netWorkingCapital": "-87976000.00",
+            "totalStockholderEquity": "154660000.00",
+            "shortLongTermDebtTotal": null,
+            "cashAndShortTermInvestments": null,
+            "netTangibleAssets": null,
+            "commonStockSharesOutstanding": "52200903.00"
+          },
+          "2021-12-31": {
+            "netDebt": "548869000.00",
+            "netWorkingCapital": "191366000.00",
+            "totalStockholderEquity": "265882000.00",
+            "shortLongTermDebtTotal": null,
+            "cashAndShortTermInvestments": null,
+            "netTangibleAssets": "-205703000.00",
+            "commonStockSharesOutstanding": "55629330.00"
+          },
+          "2020-12-31": {
+            "netDebt": "823959000.00",
+            "netWorkingCapital": "177067000.00",
+            "totalStockholderEquity": "-5752000.00",
+            "shortLongTermDebtTotal": null,
+            "cashAndShortTermInvestments": null,
+            "netTangibleAssets": "-468673000.00",
+            "commonStockSharesOutstanding": "55535554.00"
+          },
+          "2019-12-31": {
+            "netDebt": "817847000.00",
+            "netWorkingCapital": "-89299000.00",
+            "totalStockholderEquity": "-23511000.00",
+            "shortLongTermDebtTotal": null,
+            "cashAndShortTermInvestments": null,
+            "netTangibleAssets": "-473128000.00",
+            "commonStockSharesOutstanding": "55702628.00"
+          },
+          "2018-12-31": {
+            "netDebt": "727969000.00",
+            "netWorkingCapital": "-74655000.00",
+            "totalStockholderEquity": "-183772000.00",
+            "shortLongTermDebtTotal": null,
+            "cashAndShortTermInvestments": null,
+            "netTangibleAssets": "-623956000.00",
+            "commonStockSharesOutstanding": "55679207.00"
+          }
+        }
+      },
+      "Cash_Flow": {
+        "currency_symbol": "USD",
+        "quarterly": {
+          "2023-06-30": {
+            "totalCashFromOperatingActivities": "113706000.00",
+            "freeCashFlow": "87300000.00",
+            "netIncome": "84710000.00",
+            "depreciation": "19117000.00",
+            "changeInWorkingCapital": "16984000.00",
+            "capitalExpenditures": "26406000"
+          },
+          "2023-03-31": {
+            "totalCashFromOperatingActivities": "12033000.00",
+            "freeCashFlow": "-8630000.00",
+            "netIncome": "52820000.00",
+            "depreciation": "19299000.00",
+            "changeInWorkingCapital": "-53806000.00",
+            "capitalExpenditures": "20663000"
+          },
+          "2022-12-31": {
+            "totalCashFromOperatingActivities": "101859000.00",
+            "freeCashFlow": "77605000.00",
+            "netIncome": "55513000.00",
+            "depreciation": "20240000.00",
+            "changeInWorkingCapital": "29760000.00",
+            "capitalExpenditures": "24254000"
+          },
+          "2022-09-30": {
+            "totalCashFromOperatingActivities": "105853000.00",
+            "freeCashFlow": "88212000.00",
+            "netIncome": "103080000.00",
+            "depreciation": "17355000.00",
+            "changeInWorkingCapital": "3469000.00",
+            "capitalExpenditures": "16218000"
+          },
+          "2022-06-30": {
+            "totalCashFromOperatingActivities": "95425000.00",
+            "freeCashFlow": "71752000.00",
+            "netIncome": "106168000.00",
+            "depreciation": "12933000.00",
+            "changeInWorkingCapital": "-23560000.00",
+            "capitalExpenditures": "23913000"
+          },
+          "2022-03-31": {
+            "totalCashFromOperatingActivities": "63924000.00",
+            "freeCashFlow": "35907000.00",
+            "netIncome": "67391000.00",
+            "depreciation": "13385000.00",
+            "changeInWorkingCapital": "-14747000.00",
+            "capitalExpenditures": "26809000"
+          },
+          "2021-12-31": {
+            "totalCashFromOperatingActivities": "138452000.00",
+            "freeCashFlow": "109796000.00",
+            "netIncome": "64083000.00",
+            "depreciation": "-447000.00",
+            "changeInWorkingCapital": "8353000.00",
+            "capitalExpenditures": "28196000"
+          },
+          "2021-09-30": {
+            "totalCashFromOperatingActivities": "142837000.00",
+            "freeCashFlow": "119995000.00",
+            "netIncome": "116655000.00",
+            "depreciation": "12171000.00",
+            "changeInWorkingCapital": "46989000.00",
+            "capitalExpenditures": "22705000"
+          },
+          "2021-06-30": {
+            "totalCashFromOperatingActivities": "102287000.00",
+            "freeCashFlow": "86167000.00",
+            "netIncome": "85882000.00",
+            "depreciation": "12493000.00",
+            "changeInWorkingCapital": "6152000.00",
+            "capitalExpenditures": "14029000"
+          },
+          "2021-03-31": {
+            "totalCashFromOperatingActivities": "120000.00",
+            "freeCashFlow": "-10129000.00",
+            "netIncome": "22337000.00",
+            "depreciation": "12177000.00",
+            "changeInWorkingCapital": "-38254000.00",
+            "capitalExpenditures": "9364000"
+          },
+          "2020-12-31": {
+            "totalCashFromOperatingActivities": "40381000.00",
+            "freeCashFlow": "38807000.00",
+            "netIncome": "7865000.00",
+            "depreciation": "-447000.00",
+            "changeInWorkingCapital": "32292000.00",
+            "capitalExpenditures": "1427000"
+          },
+          "2020-09-30": {
+            "totalCashFromOperatingActivities": "68228000.00",
+            "freeCashFlow": "56764000.00",
+            "netIncome": "14500000.00",
+            "depreciation": "11791000.00",
+            "changeInWorkingCapital": "47825000.00",
+            "capitalExpenditures": "11082000"
+          },
+          "2020-06-30": {
+            "totalCashFromOperatingActivities": "-4312000.00",
+            "freeCashFlow": "-19003000.00",
+            "netIncome": "-2441000.00",
+            "depreciation": "11110000.00",
+            "changeInWorkingCapital": "-31343000.00",
+            "capitalExpenditures": "14865000"
+          },
+          "2020-03-31": {
+            "totalCashFromOperatingActivities": "5764000.00",
+            "freeCashFlow": "-1469000.00",
+            "netIncome": "55463000.00",
+            "depreciation": "11402000.00",
+            "changeInWorkingCapital": "-42283000.00",
+            "capitalExpenditures": "6229000"
+          },
+          "2019-12-31": {
+            "totalCashFromOperatingActivities": "79579000.00",
+            "freeCashFlow": null,
+            "netIncome": "42169000.00",
+            "depreciation": "11178000.00",
+            "changeInWorkingCapital": null,
+            "capitalExpenditures": "14247000"
+          },
+          "2019-09-30": {
+            "totalCashFromOperatingActivities": "93238000.00",
+            "freeCashFlow": null,
+            "netIncome": "76239000.00",
+            "depreciation": "9324000.00",
+            "changeInWorkingCapital": null,
+            "capitalExpenditures": "10580000"
+          },
+          "2019-06-30": {
+            "totalCashFromOperatingActivities": "79796000.00",
+            "freeCashFlow": null,
+            "netIncome": "74389000.00",
+            "depreciation": "9849000.00",
+            "changeInWorkingCapital": null,
+            "capitalExpenditures": "23548000"
+          },
+          "2019-03-31": {
+            "totalCashFromOperatingActivities": "17943000.00",
+            "freeCashFlow": null,
+            "netIncome": "30081000.00",
+            "depreciation": "10822000.00",
+            "changeInWorkingCapital": null,
+            "capitalExpenditures": "15666000"
+          },
+          "2018-12-31": {
+            "totalCashFromOperatingActivities": "96059000.00",
+            "freeCashFlow": null,
+            "netIncome": "31471000.00",
+            "depreciation": "-2497000.00",
+            "changeInWorkingCapital": null,
+            "capitalExpenditures": "13544000"
+          },
+          "2018-09-30": {
+            "totalCashFromOperatingActivities": "83023000.00",
+            "freeCashFlow": null,
+            "netIncome": "79959000.00",
+            "depreciation": "8454000.00",
+            "changeInWorkingCapital": null,
+            "capitalExpenditures": "15697000"
+          }
+        },
+        "yearly": {
+          "2022-12-31": {
+            "totalCashFromOperatingActivities": "367061000.00",
+            "freeCashFlow": "273476000.00",
+            "netIncome": "332152000.00",
+            "depreciation": "63913000.00",
+            "changeInWorkingCapital": "-5078000.00",
+            "capitalExpenditures": "93585000"
+          },
+          "2021-12-31": {
+            "totalCashFromOperatingActivities": "383696000.00",
+            "freeCashFlow": "305829000.00",
+            "netIncome": "288957000.00",
+            "depreciation": "36394000.00",
+            "changeInWorkingCapital": "23240000.00",
+            "capitalExpenditures": "74294000"
+          },
+          "2020-12-31": {
+            "totalCashFromOperatingActivities": "110061000.00",
+            "freeCashFlow": "75099000.00",
+            "netIncome": "75387000.00",
+            "depreciation": "33856000.00",
+            "changeInWorkingCapital": "6491000.00",
+            "capitalExpenditures": "33603000"
+          },
+          "2019-12-31": {
+            "totalCashFromOperatingActivities": "270556000.00",
+            "freeCashFlow": "206515000.00",
+            "netIncome": "222878000.00",
+            "depreciation": "26422000.00",
+            "changeInWorkingCapital": "-21824000.00",
+            "capitalExpenditures": "226296000"
+          },
+          "2018-12-31": {
+            "totalCashFromOperatingActivities": "242896000.00",
+            "freeCashFlow": "193420000.00",
+            "netIncome": "216355000.00",
+            "depreciation": "22727000.00",
+            "changeInWorkingCapital": "-2031000.00",
+            "capitalExpenditures": "50852000"
+          }
+        }
+      },
+      "Income_Statement": {
+        "currency_symbol": "USD",
+        "quarterly": {
+          "2023-06-30": {
+            "totalRevenue": "427420000.00",
+            "netIncome": "84710000.00",
+            "grossProfit": "202005000.00",
+            "operatingIncome": "124389000.00",
+            "ebitda": "147934000.00",
+            "costOfRevenue": "225415000.00",
+            "interestExpense": "16270000.00"
+          },
+          "2023-03-31": {
+            "totalRevenue": "332792000.00",
+            "netIncome": "52820000.00",
+            "grossProfit": "147157000.00",
+            "operatingIncome": "77851000.00",
+            "ebitda": "100878000.00",
+            "costOfRevenue": "185635000.00",
+            "interestExpense": "14084000.00"
+          },
+          "2022-12-31": {
+            "totalRevenue": "361982000.00",
+            "netIncome": "55513000.00",
+            "grossProfit": "150126000.00",
+            "operatingIncome": "77276000.00",
+            "ebitda": "102122000.00",
+            "costOfRevenue": "211856000.00",
+            "interestExpense": "11713000.00"
+          },
+          "2022-09-30": {
+            "totalRevenue": "414266000.00",
+            "netIncome": "103080000.00",
+            "grossProfit": "210567000.00",
+            "operatingIncome": "131639000.00",
+            "ebitda": "163493000.00",
+            "costOfRevenue": "203699000.00",
+            "interestExpense": "9362000.00"
+          },
+          "2022-06-30": {
+            "totalRevenue": "367974000.00",
+            "netIncome": "106168000.00",
+            "grossProfit": "203436000.00",
+            "operatingIncome": "154069000.00",
+            "ebitda": "170150000.00",
+            "costOfRevenue": "164538000.00",
+            "interestExpense": "11252000.00"
+          },
+          "2022-03-31": {
+            "totalRevenue": "257727000.00",
+            "netIncome": "67391000.00",
+            "grossProfit": "135923000.00",
+            "operatingIncome": "99368000.00",
+            "ebitda": "116374000.00",
+            "costOfRevenue": "121804000.00",
+            "interestExpense": "11470000.00"
+          },
+          "2021-12-31": {
+            "totalRevenue": "284638000.00",
+            "netIncome": "64083000.00",
+            "grossProfit": "159146000.00",
+            "operatingIncome": "107074000.00",
+            "ebitda": "109566000.00",
+            "costOfRevenue": "125492000.00",
+            "interestExpense": "11574000.00"
+          },
+          "2021-09-30": {
+            "totalRevenue": "323369000.00",
+            "netIncome": "116655000.00",
+            "grossProfit": "200099000.00",
+            "operatingIncome": "159106000.00",
+            "ebitda": "175398000.00",
+            "costOfRevenue": "123270000.00",
+            "interestExpense": "11638000.00"
+          },
+          "2021-06-30": {
+            "totalRevenue": "278344000.00",
+            "netIncome": "85882000.00",
+            "grossProfit": "159726000.00",
+            "operatingIncome": "119024000.00",
+            "ebitda": "129777000.00",
+            "costOfRevenue": "118618000.00",
+            "interestExpense": "11691000.00"
+          },
+          "2021-03-31": {
+            "totalRevenue": "182947000.00",
+            "netIncome": "22337000.00",
+            "grossProfit": "80627000.00",
+            "operatingIncome": "43998000.00",
+            "ebitda": "46849000.00",
+            "costOfRevenue": "102320000.00",
+            "interestExpense": "11777000.00"
+          },
+          "2020-12-31": {
+            "totalRevenue": "193393000.00",
+            "netIncome": "7865000.00",
+            "grossProfit": "76866000.00",
+            "operatingIncome": "26032000.00",
+            "ebitda": "19788000.00",
+            "costOfRevenue": "116527000.00",
+            "interestExpense": "11875000.00"
+          },
+          "2020-09-30": {
+            "totalRevenue": "210771000.00",
+            "netIncome": "14500000.00",
+            "grossProfit": "93151000.00",
+            "operatingIncome": "55356000.00",
+            "ebitda": "43167000.00",
+            "costOfRevenue": "117620000.00",
+            "interestExpense": "12691000.00"
+          },
+          "2020-06-30": {
+            "totalRevenue": "151733000.00",
+            "netIncome": "-2441000.00",
+            "grossProfit": "59448000.00",
+            "operatingIncome": "9086000.00",
+            "ebitda": "16602000.00",
+            "costOfRevenue": "92285000.00",
+            "interestExpense": "13082000.00"
+          },
+          "2020-03-31": {
+            "totalRevenue": "218175000.00",
+            "netIncome": "55463000.00",
+            "grossProfit": "81694000.00",
+            "operatingIncome": "46330000.00",
+            "ebitda": "48308000.00",
+            "costOfRevenue": "136481000.00",
+            "interestExpense": "11380000.00"
+          },
+          "2019-12-31": {
+            "totalRevenue": "268084000.00",
+            "netIncome": "42169000.00",
+            "grossProfit": "118901000.00",
+            "operatingIncome": "68631000.00",
+            "ebitda": null,
+            "costOfRevenue": "149183000.00",
+            "interestExpense": "12072000.00"
+          },
+          "2019-09-30": {
+            "totalRevenue": "310732000.00",
+            "netIncome": "76239000.00",
+            "grossProfit": "146288000.00",
+            "operatingIncome": "102412000.00",
+            "ebitda": null,
+            "costOfRevenue": "164444000.00",
+            "interestExpense": "12431000.00"
+          },
+          "2019-06-30": {
+            "totalRevenue": "317684000.00",
+            "netIncome": "74389000.00",
+            "grossProfit": "157563000.00",
+            "operatingIncome": "107178000.00",
+            "ebitda": null,
+            "costOfRevenue": "160121000.00",
+            "interestExpense": "11093000.00"
+          },
+          "2019-03-31": {
+            "totalRevenue": "218320000.00",
+            "netIncome": "30081000.00",
+            "grossProfit": "98481000.00",
+            "operatingIncome": "55351000.00",
+            "ebitda": null,
+            "costOfRevenue": "119839000.00",
+            "interestExpense": "11211000.00"
+          },
+          "2018-12-31": {
+            "totalRevenue": "244979000.00",
+            "netIncome": "31471000.00",
+            "grossProfit": "104825000.00",
+            "operatingIncome": "60509000.00",
+            "ebitda": null,
+            "costOfRevenue": "140154000.00",
+            "interestExpense": "11188000.00"
+          },
+          "2018-09-30": {
+            "totalRevenue": "291490000.00",
+            "netIncome": "79959000.00",
+            "grossProfit": "153174000.00",
+            "operatingIncome": "111168000.00",
+            "ebitda": null,
+            "costOfRevenue": "138316000.00",
+            "interestExpense": "11706000.00"
+          }
+        },
+        "yearly": {
+          "2022-12-31": {
+            "totalRevenue": "1401949000.00",
+            "netIncome": "332152000.00",
+            "grossProfit": "700052000.00",
+            "operatingIncome": "462352000.00",
+            "ebitda": "544516000.00",
+            "costOfRevenue": "701897000.00",
+            "interestExpense": "43797000.00"
+          },
+          "2021-12-31": {
+            "totalRevenue": "1069298000.00",
+            "netIncome": "288957000.00",
+            "grossProfit": "599598000.00",
+            "operatingIncome": "429202000.00",
+            "ebitda": "473666000.00",
+            "costOfRevenue": "469700000.00",
+            "interestExpense": "46680000.00"
+          },
+          "2020-12-31": {
+            "totalRevenue": "774072000.00",
+            "netIncome": "75387000.00",
+            "grossProfit": "311159000.00",
+            "operatingIncome": "136804000.00",
+            "ebitda": "127865000.00",
+            "costOfRevenue": "462913000.00",
+            "interestExpense": "49028000.00"
+          },
+          "2019-12-31": {
+            "totalRevenue": "1114820000.00",
+            "netIncome": "222878000.00",
+            "grossProfit": "521233000.00",
+            "operatingIncome": "333572000.00",
+            "ebitda": "335564000.00",
+            "costOfRevenue": "593587000.00",
+            "interestExpense": "46807000.00"
+          },
+          "2018-12-31": {
+            "totalRevenue": "1041304000.00",
+            "netIncome": "216355000.00",
+            "grossProfit": "507038000.00",
+            "operatingIncome": "322681000.00",
+            "ebitda": "333496000.00",
+            "costOfRevenue": "534266000.00",
+            "interestExpense": "45908000.00"
+          }
+        }
+      }
+    }
+  }
